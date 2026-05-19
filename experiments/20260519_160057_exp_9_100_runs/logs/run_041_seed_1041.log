@@ -1,0 +1,9 @@
+STDOUT:
+D1 -> comprimento_3d=123.524 m
+D2 -> comprimento_3d=118.896 m
+Simulação encerrada no frame 2241: todos os drones parados.
+{'run_id': 41, 'seed': 1041, 'experiment_scenario': 9, 'simulation_completed': True, 'executed_frames': 2241, 'visual_mode': False, 'attraction_gain': 20, 'current_repulsion_gain': 10000, 'future_repulsion_ratio': 0.05, 'future_repulsion_gain': 500.0, 'damping_gain': 4, 'influence_radius_m': 8.0, 'critical_distance_ratio': 0.5, 'critical_distance_m': 4.0, 'random_force_max_ratio': 0.05, 'attraction_waypoint_window': 5, 'future_repulsion_waypoint_window': 5, 'minimum_inter_uav_distance_m': 6.059593288074499, 'closest_uav_pair': 'D1-D2', 'minimum_distance_frame': 1049, 'collision_distance_threshold_m': 1.0, 'collision_detected': False, 'mean_lateral_error_m': 0.9135980459393809, 'mean_lateral_rmse_m': 1.343994600753938, 'mean_maximum_path_deviation_m': 4.417220372026238, 'maximum_path_deviation_m': 4.758121429102368, 'mean_trajectory_elongation_index': 1.0489286959990056, 'total_uavs': 2, 'uavs_considered_in_metrics': 2}
+Trajetórias salvas em: resultados_lote\20260519_160057_exp_9_100_runs\trajectories\trajectories_scenario_9_run_041_seed_1041.json
+
+
+STDERR:
