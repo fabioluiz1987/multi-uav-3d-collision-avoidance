@@ -279,22 +279,3 @@ The table below reports the mean values over 100 simulation runs for each experi
 
 ---
 
-## Citation
-
-If you use this repository or its simulation assets, please cite the associated paper once published.
-
-```bibtex
-@article{luizjunior2026decentralized,
-  title={A Decentralized 3D Collision Avoidance Algorithm for Multi-UAV Systems Based on Modified Artificial Potential Fields},
-  author={Luiz Junior, F{\'a}bio and others},
-  journal={IEEE Access},
-  year={2026},
-  note={Under review}
-}
-```
-
----
-
-## License
-
-Add the appropriate license for your project before public release.
