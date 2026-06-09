@@ -1,0 +1,173 @@
+Encontradas 10 subpastas em: resultados_lote
+================================================================================
+Analisando: resultados_lote\20260521_112722_exp_1_20_runs
+================================================================================
+Resumo global:
+                             metric          mean           std           var        median           min           max
+0      minimum_inter_uav_distance_m  1.000000e+01  1.822504e-15  3.321520e-30  1.000000e+01  1.000000e+01  1.000000e+01
+1              mean_lateral_error_m  5.359851e-18  7.903850e-34  6.247084e-67  5.359851e-18  5.359851e-18  5.359851e-18
+2               mean_lateral_rmse_m  3.823596e-17  6.323080e-33  3.998134e-65  3.823596e-17  3.823596e-17  3.823596e-17
+3     mean_maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+4          maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+5  mean_trajectory_elongation_index  1.000000e+00  1.139065e-16  1.297469e-32  1.000000e+00  1.000000e+00  1.000000e+00
+6                        total_uavs  4.000000e+00  0.000000e+00  0.000000e+00  4.000000e+00  4.000000e+00  4.000000e+00
+7        uavs_considered_in_metrics  3.000000e+00  0.000000e+00  0.000000e+00  3.000000e+00  3.000000e+00  3.000000e+00
+8                      success_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+9                    collision_rate  0.000000e+00           NaN           NaN           NaN           NaN           NaN
+
+Arquivo salvo em: resultados_lote\20260521_112722_exp_1_20_runs\resumo_global.csv
+================================================================================
+Analisando: resultados_lote\20260521_112743_exp_2_20_runs
+================================================================================
+Resumo global:
+                             metric          mean           std           var        median           min           max
+0      minimum_inter_uav_distance_m  1.414214e-02  0.000000e+00  0.000000e+00  1.414214e-02  1.414214e-02  1.414214e-02
+1              mean_lateral_error_m  5.582251e-18  0.000000e+00  0.000000e+00  5.582251e-18  5.582251e-18  5.582251e-18
+2               mean_lateral_rmse_m  3.875464e-17  1.264616e-32  1.599254e-64  3.875464e-17  3.875464e-17  3.875464e-17
+3     mean_maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+4          maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+5  mean_trajectory_elongation_index  1.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  1.000000e+00  1.000000e+00
+6                        total_uavs  4.000000e+00  0.000000e+00  0.000000e+00  4.000000e+00  4.000000e+00  4.000000e+00
+7        uavs_considered_in_metrics  4.000000e+00  0.000000e+00  0.000000e+00  4.000000e+00  4.000000e+00  4.000000e+00
+8                      success_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+9                    collision_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+
+Arquivo salvo em: resultados_lote\20260521_112743_exp_2_20_runs\resumo_global.csv
+================================================================================
+Analisando: resultados_lote\20260521_112802_exp_3_20_runs
+================================================================================
+Resumo global:
+                             metric          mean           std           var        median           min           max
+0      minimum_inter_uav_distance_m  1.000000e+01  1.822504e-15  3.321520e-30  1.000000e+01  1.000000e+01  1.000000e+01
+1              mean_lateral_error_m  5.804652e-18  7.903850e-34  6.247084e-67  5.804652e-18  5.804652e-18  5.804652e-18
+2               mean_lateral_rmse_m  3.927333e-17  6.323080e-33  3.998134e-65  3.927333e-17  3.927333e-17  3.927333e-17
+3     mean_maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+4          maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+5  mean_trajectory_elongation_index  1.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  1.000000e+00  1.000000e+00
+6                        total_uavs  3.000000e+00  0.000000e+00  0.000000e+00  3.000000e+00  3.000000e+00  3.000000e+00
+7        uavs_considered_in_metrics  2.000000e+00  0.000000e+00  0.000000e+00  2.000000e+00  2.000000e+00  2.000000e+00
+8                      success_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+9                    collision_rate  0.000000e+00           NaN           NaN           NaN           NaN           NaN
+
+Arquivo salvo em: resultados_lote\20260521_112802_exp_3_20_runs\resumo_global.csv
+================================================================================
+Analisando: resultados_lote\20260521_112819_exp_4_20_runs
+================================================================================
+Resumo global:
+                             metric          mean           std           var        median           min           max
+0      minimum_inter_uav_distance_m  1.414214e-02  0.000000e+00  0.000000e+00  1.414214e-02  1.414214e-02  1.414214e-02
+1              mean_lateral_error_m  5.359851e-18  7.903850e-34  6.247084e-67  5.359851e-18  5.359851e-18  5.359851e-18
+2               mean_lateral_rmse_m  3.823596e-17  6.323080e-33  3.998134e-65  3.823596e-17  3.823596e-17  3.823596e-17
+3     mean_maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+4          maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+5  mean_trajectory_elongation_index  1.000000e+00  1.139065e-16  1.297469e-32  1.000000e+00  1.000000e+00  1.000000e+00
+6                        total_uavs  2.000000e+00  0.000000e+00  0.000000e+00  2.000000e+00  2.000000e+00  2.000000e+00
+7        uavs_considered_in_metrics  2.000000e+00  0.000000e+00  0.000000e+00  2.000000e+00  2.000000e+00  2.000000e+00
+8                      success_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+9                    collision_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+
+Arquivo salvo em: resultados_lote\20260521_112819_exp_4_20_runs\resumo_global.csv
+================================================================================
+Analisando: resultados_lote\20260521_112834_exp_5_20_runs
+================================================================================
+Resumo global:
+                             metric          mean           std           var        median           min           max
+0      minimum_inter_uav_distance_m  3.535534e-03  4.449472e-19  1.979780e-37  3.535534e-03  3.535534e-03  3.535534e-03
+1              mean_lateral_error_m  9.379149e-18  1.580770e-33  2.498834e-66  9.379149e-18  9.379149e-18  9.379149e-18
+2               mean_lateral_rmse_m  5.095919e-17  6.323080e-33  3.998134e-65  5.095919e-17  5.095919e-17  5.095919e-17
+3     mean_maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+4          maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+5  mean_trajectory_elongation_index  1.000000e+00  2.278130e-16  5.189874e-32  1.000000e+00  1.000000e+00  1.000000e+00
+6                        total_uavs  4.000000e+00  0.000000e+00  0.000000e+00  4.000000e+00  4.000000e+00  4.000000e+00
+7        uavs_considered_in_metrics  4.000000e+00  0.000000e+00  0.000000e+00  4.000000e+00  4.000000e+00  4.000000e+00
+8                      success_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+9                    collision_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+
+Arquivo salvo em: resultados_lote\20260521_112834_exp_5_20_runs\resumo_global.csv
+================================================================================
+Analisando: resultados_lote\20260521_112852_exp_6_20_runs
+================================================================================
+Resumo global:
+                             metric          mean           std           var        median           min           max
+0      minimum_inter_uav_distance_m  3.535534e-03  4.449472e-19  1.979780e-37  3.535534e-03  3.535534e-03  3.535534e-03
+1              mean_lateral_error_m  9.379149e-18  1.580770e-33  2.498834e-66  9.379149e-18  9.379149e-18  9.379149e-18
+2               mean_lateral_rmse_m  5.095919e-17  6.323080e-33  3.998134e-65  5.095919e-17  5.095919e-17  5.095919e-17
+3     mean_maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+4          maximum_path_deviation_m  4.440892e-16  0.000000e+00  0.000000e+00  4.440892e-16  4.440892e-16  4.440892e-16
+5  mean_trajectory_elongation_index  1.000000e+00  2.278130e-16  5.189874e-32  1.000000e+00  1.000000e+00  1.000000e+00
+6                        total_uavs  4.000000e+00  0.000000e+00  0.000000e+00  4.000000e+00  4.000000e+00  4.000000e+00
+7        uavs_considered_in_metrics  4.000000e+00  0.000000e+00  0.000000e+00  4.000000e+00  4.000000e+00  4.000000e+00
+8                      success_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+9                    collision_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+
+Arquivo salvo em: resultados_lote\20260521_112852_exp_6_20_runs\resumo_global.csv
+================================================================================
+Analisando: resultados_lote\20260521_112911_exp_7_20_runs
+================================================================================
+Resumo global:
+                             metric          mean           std           var        median           min           max
+0      minimum_inter_uav_distance_m  1.545085e-03  2.224736e-19  4.949450e-38  1.545085e-03  1.545085e-03  1.545085e-03
+1              mean_lateral_error_m  9.253271e-15  3.237417e-30  1.048087e-59  9.253271e-15  9.253271e-15  9.253271e-15
+2               mean_lateral_rmse_m  1.130748e-14  0.000000e+00  0.000000e+00  1.130748e-14  1.130748e-14  1.130748e-14
+3     mean_maximum_path_deviation_m  2.486265e-14  0.000000e+00  0.000000e+00  2.486265e-14  2.486265e-14  2.486265e-14
+4          maximum_path_deviation_m  3.552714e-14  0.000000e+00  0.000000e+00  3.552714e-14  3.552714e-14  3.552714e-14
+5  mean_trajectory_elongation_index  1.000000e+00  1.139065e-16  1.297469e-32  1.000000e+00  1.000000e+00  1.000000e+00
+6                        total_uavs  1.000000e+01  0.000000e+00  0.000000e+00  1.000000e+01  1.000000e+01  1.000000e+01
+7        uavs_considered_in_metrics  1.000000e+01  0.000000e+00  0.000000e+00  1.000000e+01  1.000000e+01  1.000000e+01
+8                      success_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+9                    collision_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+
+Arquivo salvo em: resultados_lote\20260521_112911_exp_7_20_runs\resumo_global.csv
+================================================================================
+Analisando: resultados_lote\20260521_112943_exp_8_20_runs
+================================================================================
+Resumo global:
+                             metric          mean           std           var        median           min           max
+0      minimum_inter_uav_distance_m  1.545085e-03  2.224736e-19  4.949450e-38  1.545085e-03  1.545085e-03  1.545085e-03
+1              mean_lateral_error_m  9.253271e-15  3.237417e-30  1.048087e-59  9.253271e-15  9.253271e-15  9.253271e-15
+2               mean_lateral_rmse_m  1.130748e-14  0.000000e+00  0.000000e+00  1.130748e-14  1.130748e-14  1.130748e-14
+3     mean_maximum_path_deviation_m  2.486265e-14  0.000000e+00  0.000000e+00  2.486265e-14  2.486265e-14  2.486265e-14
+4          maximum_path_deviation_m  3.552714e-14  0.000000e+00  0.000000e+00  3.552714e-14  3.552714e-14  3.552714e-14
+5  mean_trajectory_elongation_index  1.000000e+00  1.139065e-16  1.297469e-32  1.000000e+00  1.000000e+00  1.000000e+00
+6                        total_uavs  1.000000e+01  0.000000e+00  0.000000e+00  1.000000e+01  1.000000e+01  1.000000e+01
+7        uavs_considered_in_metrics  1.000000e+01  0.000000e+00  0.000000e+00  1.000000e+01  1.000000e+01  1.000000e+01
+8                      success_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+9                    collision_rate  1.000000e+00           NaN           NaN           NaN           NaN           NaN
+
+Arquivo salvo em: resultados_lote\20260521_112943_exp_8_20_runs\resumo_global.csv
+================================================================================
+Analisando: resultados_lote\20260521_113014_exp_9_20_runs
+================================================================================
+Resumo global:
+                             metric      mean           std           var    median       min       max
+0      minimum_inter_uav_distance_m  2.169323  4.556259e-16  2.075950e-31  2.169323  2.169323  2.169323
+1              mean_lateral_error_m  0.886833  0.000000e+00  0.000000e+00  0.886833  0.886833  0.886833
+2               mean_lateral_rmse_m  1.213522  2.278130e-16  5.189874e-32  1.213522  1.213522  1.213522
+3     mean_maximum_path_deviation_m  4.104667  9.112518e-16  8.303799e-31  4.104667  4.104667  4.104667
+4          maximum_path_deviation_m  5.178566  9.112518e-16  8.303799e-31  5.178566  5.178566  5.178566
+5  mean_trajectory_elongation_index  1.011732  4.556259e-16  2.075950e-31  1.011732  1.011732  1.011732
+6                        total_uavs  2.000000  0.000000e+00  0.000000e+00  2.000000  2.000000  2.000000
+7        uavs_considered_in_metrics  2.000000  0.000000e+00  0.000000e+00  2.000000  2.000000  2.000000
+8                      success_rate  1.000000           NaN           NaN       NaN       NaN       NaN
+9                    collision_rate  0.000000           NaN           NaN       NaN       NaN       NaN
+
+Arquivo salvo em: resultados_lote\20260521_113014_exp_9_20_runs\resumo_global.csv
+================================================================================
+Analisando: resultados_lote\20260521_113111_exp_10_20_runs
+================================================================================
+Resumo global:
+                             metric      mean           std           var    median       min       max
+0      minimum_inter_uav_distance_m  3.008208  4.556259e-16  2.075950e-31  3.008208  3.008208  3.008208
+1              mean_lateral_error_m  0.935674  1.139065e-16  1.297469e-32  0.935674  0.935674  0.935674
+2               mean_lateral_rmse_m  1.348997  4.556259e-16  2.075950e-31  1.348997  1.348997  1.348997
+3     mean_maximum_path_deviation_m  4.044540  9.112518e-16  8.303799e-31  4.044540  4.044540  4.044540
+4          maximum_path_deviation_m  5.095946  0.000000e+00  0.000000e+00  5.095946  5.095946  5.095946
+5  mean_trajectory_elongation_index  1.013833  2.278130e-16  5.189874e-32  1.013833  1.013833  1.013833
+6                        total_uavs  3.000000  0.000000e+00  0.000000e+00  3.000000  3.000000  3.000000
+7        uavs_considered_in_metrics  3.000000  0.000000e+00  0.000000e+00  3.000000  3.000000  3.000000
+8                      success_rate  1.000000           NaN           NaN       NaN       NaN       NaN
+9                    collision_rate  0.000000           NaN           NaN       NaN       NaN       NaN
+
+Arquivo salvo em: resultados_lote\20260521_113111_exp_10_20_runs\resumo_global.csv
+
+Análise de todas as subpastas concluída.
