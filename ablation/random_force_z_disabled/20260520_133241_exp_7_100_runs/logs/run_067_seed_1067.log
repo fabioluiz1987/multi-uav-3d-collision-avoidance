@@ -1,0 +1,7 @@
+STDOUT:
+Simulação encerrada no frame 1090: todos os drones parados.
+{'run_id': 67, 'seed': 1067, 'experiment_scenario': 7, 'simulation_completed': True, 'executed_frames': 1090, 'visual_mode': False, 'attraction_gain': 20, 'current_repulsion_gain': 10000, 'future_repulsion_ratio': 0.05, 'future_repulsion_gain': 500.0, 'damping_gain': 4, 'influence_radius_m': 8.0, 'critical_distance_ratio': 0.5, 'critical_distance_m': 4.0, 'random_force_max_ratio': 0.05, 'attraction_waypoint_window': 5, 'future_repulsion_waypoint_window': 5, 'minimum_inter_uav_distance_m': 6.201172957557785, 'closest_uav_pair': 'D7-D8', 'minimum_distance_frame': 322, 'collision_distance_threshold_m': 1.0, 'collision_detected': False, 'mean_lateral_error_m': 5.680967975371692, 'mean_lateral_rmse_m': 7.084497753834976, 'mean_maximum_path_deviation_m': 11.433667731299753, 'maximum_path_deviation_m': 11.436003146717514, 'mean_trajectory_elongation_index': 1.4529467703035288, 'total_uavs': 10, 'uavs_considered_in_metrics': 10}
+Trajetórias salvas em: resultados_lote\20260520_133241_exp_7_100_runs\trajectories\trajectories_scenario_7_run_067_seed_1067.json
+
+
+STDERR:
