@@ -111,15 +111,15 @@ The table below reports the mean values over 100 simulation runs for each experi
 | Exp. | Min. inter-UAV distance [m] | Mean lateral error [m] | Mean lateral RMSE [m] | Mean max path deviation [m] | Max path deviation [m] | Mean elongation index |
 |---:|---:|---:|---:|---:|---:|---:|
 | 1 | 11.4506 | 1.6325 | 2.8732 | 6.9095 | 6.9208 | 1.1749 |
-| 2 | 4.1511 | 0.6520 | 1.1931 | 3.2053 | 6.9089 | 1.0702 |
+| 2 | 5.9793 | 0.6791 | 1.2143 | 3.1878 | 6.9093 | 1.0828 |
 | 3 | 11.2071 | 0.4839 | 0.8032 | 2.1950 | 4.3900 | 1.0426 |
 | 4 | 5.6637 | 0.6292 | 1.3417 | 3.8980 | 3.9409 | 1.0734 |
-| 5 | 4.2678 | 1.6304 | 2.5093 | 5.7829 | 8.3405 | 1.2113 |
-| 6 | 4.5052 | 2.4952 | 3.2534 | 5.9268 | 7.8638 | 1.2891 |
-| 7 | 5.1913 | 3.8253 | 5.0376 | 8.7906 | 9.9584 | 1.4921 |
-| 8 | 5.2483 | 3.6103 | 4.6416 | 7.8722 | 9.9776 | 1.4482 |
-| 9 | 6.0106 | 0.9139 | 1.3414 | 4.4061 | 4.7052 | 1.0487 |
-| 10 | 7.7834 | 1.3237 | 2.1212 | 6.0686 | 7.7625 | 1.0720 |
+| 5 | 4.2678 | 1.6095 | 2.4957 | 5.7642 | 8.2674 | 1.2115 |
+| 6 | 4.5046 | 2.4898 | 3.2519 | 5.9276 | 7.8650 | 1.2891 |
+| 7 | 5.1283 | 3.7877 | 5.0095 | 8.7681 | 9.9456 | 1.4987 |
+| 8 | 5.1900 | 3.5282 | 4.5891 | 7.8490 | 9.8867 | 1.4514 |
+| 9 | 5.9928 | 0.9142 | 1.3414 | 4.4095 | 4.7138 | 1.0490 |
+| 10 | 7.9293 | 1.3002 | 2.0854 | 5.5891 | 7.8932 | 1.0719 |
 
 ---
 
@@ -142,12 +142,12 @@ The table below reports the mean values over 100 simulation runs for each experi
 
 | Metric | Mean | Std. | Var. | Median | Min. | Max. |
 |---|---:|---:|---:|---:|---:|---:|
-| Minimum inter-UAV distance [m] | 4.1511 | 0.1834 | 0.033637 | 4.1845 | 3.6089 | 4.4408 |
-| Mean lateral error [m] | 0.6520 | 0.0144 | 0.000208 | 0.6564 | 0.6006 | 0.6676 |
-| Mean lateral RMSE [m] | 1.1931 | 0.0261 | 0.000683 | 1.2012 | 1.0959 | 1.2141 |
-| Mean maximum path deviation [m] | 3.2053 | 0.0967 | 0.009351 | 3.2340 | 2.8436 | 3.2621 |
-| Maximum path deviation [m] | 6.9089 | 0.0140 | 0.000196 | 6.9079 | 6.8779 | 6.9411 |
-| Mean trajectory elongation index | 1.0702 | 0.0015 | 0.000002 | 1.0702 | 1.0673 | 1.0734 |
+| Minimum inter-UAV distance [m] | 5.9793 | 0.0269 | 0.000724 | 5.9783 | 5.9265 | 6.0509 |
+| Mean lateral error [m] | 0.6791 | 0.0073 | 0.000053 | 0.6790 | 0.6652 | 0.6997 |
+| Mean lateral RMSE [m] | 1.2143 | 0.0136 | 0.000186 | 1.2145 | 1.1870 | 1.2520 |
+| Mean maximum path deviation [m] | 3.1878 | 0.0262 | 0.000687 | 3.1867 | 3.1352 | 3.2501 |
+| Maximum path deviation [m] | 6.9093 | 0.0141 | 0.000199 | 6.9085 | 6.8783 | 6.9411 |
+| Mean trajectory elongation index | 1.0828 | 0.0014 | 0.000002 | 1.0831 | 1.0795 | 1.0856 |
 | Success rate | 1.0000 | -- | -- | -- | -- | -- |
 | Collision rate | 0.0000 | -- | -- | -- | -- | -- |
 
@@ -182,11 +182,11 @@ The table below reports the mean values over 100 simulation runs for each experi
 | Metric | Mean | Std. | Var. | Median | Min. | Max. |
 |---|---:|---:|---:|---:|---:|---:|
 | Minimum inter-UAV distance [m] | 4.2678 | 0.0853 | 0.007278 | 4.2892 | 4.0251 | 4.4005 |
-| Mean lateral error [m] | 1.6304 | 0.0654 | 0.004275 | 1.6435 | 1.4615 | 1.7428 |
-| Mean lateral RMSE [m] | 2.5093 | 0.0871 | 0.007595 | 2.5127 | 2.3213 | 2.6578 |
-| Mean maximum path deviation [m] | 5.7829 | 0.2398 | 0.057517 | 5.8098 | 5.2922 | 6.3378 |
-| Maximum path deviation [m] | 8.3405 | 0.6358 | 0.404221 | 8.5955 | 7.1214 | 9.4102 |
-| Mean trajectory elongation index | 1.2113 | 0.0333 | 0.001110 | 1.1946 | 1.1783 | 1.3062 |
+| Mean lateral error [m] | 1.6095 | 0.0593 | 0.003512 | 1.6171 | 1.4609 | 1.7218 |
+| Mean lateral RMSE [m] | 2.4957 | 0.0815 | 0.006647 | 2.5012 | 2.3189 | 2.6484 |
+| Mean maximum path deviation [m] | 5.7642 | 0.2427 | 0.058900 | 5.8024 | 5.2922 | 6.3378 |
+| Maximum path deviation [m] | 8.2674 | 0.6452 | 0.416276 | 8.5694 | 7.1214 | 9.2786 |
+| Mean trajectory elongation index | 1.2115 | 0.0335 | 0.001120 | 1.1946 | 1.1783 | 1.3058 |
 | Success rate | 1.0000 | -- | -- | -- | -- | -- |
 | Collision rate | 0.0000 | -- | -- | -- | -- | -- |
 
@@ -194,12 +194,12 @@ The table below reports the mean values over 100 simulation runs for each experi
 
 | Metric | Mean | Std. | Var. | Median | Min. | Max. |
 |---|---:|---:|---:|---:|---:|---:|
-| Minimum inter-UAV distance [m] | 4.5052 | 0.5110 | 0.261128 | 4.3159 | 4.0209 | 6.0086 |
-| Mean lateral error [m] | 2.4952 | 0.1350 | 0.018238 | 2.4768 | 2.2694 | 2.7902 |
-| Mean lateral RMSE [m] | 3.2534 | 0.1133 | 0.012827 | 3.2341 | 3.0589 | 3.4952 |
-| Mean maximum path deviation [m] | 5.9268 | 0.2310 | 0.053339 | 5.9223 | 5.5922 | 6.4745 |
-| Maximum path deviation [m] | 7.8638 | 0.6581 | 0.433043 | 7.8165 | 7.0706 | 9.4881 |
-| Mean trajectory elongation index | 1.2891 | 0.0159 | 0.000252 | 1.2851 | 1.2627 | 1.3436 |
+| Minimum inter-UAV distance [m] | 4.5046 | 0.5113 | 0.261380 | 4.3044 | 4.0209 | 6.0086 |
+| Mean lateral error [m] | 2.4898 | 0.1348 | 0.018182 | 2.4710 | 2.2657 | 2.7884 |
+| Mean lateral RMSE [m] | 3.2519 | 0.1131 | 0.012783 | 3.2315 | 3.0581 | 3.4947 |
+| Mean maximum path deviation [m] | 5.9276 | 0.2314 | 0.053528 | 5.9207 | 5.5922 | 6.4745 |
+| Maximum path deviation [m] | 7.8650 | 0.6593 | 0.434702 | 7.8134 | 7.0706 | 9.4881 |
+| Mean trajectory elongation index | 1.2891 | 0.0159 | 0.000253 | 1.2851 | 1.2624 | 1.3424 |
 | Success rate | 1.0000 | -- | -- | -- | -- | -- |
 | Collision rate | 0.0000 | -- | -- | -- | -- | -- |
 
@@ -207,12 +207,12 @@ The table below reports the mean values over 100 simulation runs for each experi
 
 | Metric | Mean | Std. | Var. | Median | Min. | Max. |
 |---|---:|---:|---:|---:|---:|---:|
-| Minimum inter-UAV distance [m] | 5.1913 | 0.4187 | 0.175294 | 5.2433 | 4.1408 | 5.8481 |
-| Mean lateral error [m] | 3.8253 | 0.2968 | 0.088116 | 3.7515 | 3.3221 | 4.3335 |
-| Mean lateral RMSE [m] | 5.0376 | 0.2384 | 0.056853 | 4.9812 | 4.5766 | 5.4050 |
-| Mean maximum path deviation [m] | 8.7906 | 0.2261 | 0.051117 | 8.7738 | 8.2205 | 9.1200 |
-| Maximum path deviation [m] | 9.9584 | 0.2747 | 0.075441 | 10.0222 | 9.1755 | 10.5202 |
-| Mean trajectory elongation index | 1.4921 | 0.0624 | 0.003895 | 1.4872 | 1.3869 | 1.6406 |
+| Minimum inter-UAV distance [m] | 5.1283 | 0.4249 | 0.180572 | 5.1344 | 4.0957 | 5.8510 |
+| Mean lateral error [m] | 3.7877 | 0.3201 | 0.102470 | 3.7131 | 3.2193 | 4.3079 |
+| Mean lateral RMSE [m] | 5.0095 | 0.2584 | 0.066745 | 4.9440 | 4.5323 | 5.4391 |
+| Mean maximum path deviation [m] | 8.7681 | 0.2274 | 0.051698 | 8.7352 | 8.2827 | 9.1537 |
+| Maximum path deviation [m] | 9.9456 | 0.2712 | 0.073567 | 9.9928 | 9.2717 | 10.5086 |
+| Mean trajectory elongation index | 1.4987 | 0.0630 | 0.003964 | 1.4918 | 1.3869 | 1.6710 |
 | Success rate | 1.0000 | -- | -- | -- | -- | -- |
 | Collision rate | 0.0000 | -- | -- | -- | -- | -- |
 
@@ -220,12 +220,12 @@ The table below reports the mean values over 100 simulation runs for each experi
 
 | Metric | Mean | Std. | Var. | Median | Min. | Max. |
 |---|---:|---:|---:|---:|---:|---:|
-| Minimum inter-UAV distance [m] | 5.2483 | 0.4722 | 0.222938 | 5.3419 | 4.2378 | 5.9782 |
-| Mean lateral error [m] | 3.6103 | 0.2437 | 0.059367 | 3.6703 | 3.1122 | 4.0414 |
-| Mean lateral RMSE [m] | 4.6416 | 0.1860 | 0.034582 | 4.6936 | 4.2377 | 4.9714 |
-| Mean maximum path deviation [m] | 7.8722 | 0.1273 | 0.016215 | 7.9008 | 7.3407 | 8.0674 |
-| Maximum path deviation [m] | 9.9776 | 0.3792 | 0.143767 | 9.9410 | 9.1041 | 11.8124 |
-| Mean trajectory elongation index | 1.4482 | 0.0619 | 0.003829 | 1.4431 | 1.3555 | 1.7734 |
+| Minimum inter-UAV distance [m] | 5.1900 | 0.5051 | 0.255104 | 5.2282 | 4.0970 | 6.0098 |
+| Mean lateral error [m] | 3.5282 | 0.2592 | 0.067197 | 3.5679 | 3.0863 | 4.0414 |
+| Mean lateral RMSE [m] | 4.5891 | 0.2023 | 0.040915 | 4.6102 | 4.2141 | 4.9563 |
+| Mean maximum path deviation [m] | 7.8490 | 0.1571 | 0.024683 | 7.8665 | 7.3615 | 8.0774 |
+| Maximum path deviation [m] | 9.8867 | 0.4237 | 0.179520 | 9.8963 | 8.6148 | 11.1764 |
+| Mean trajectory elongation index | 1.4514 | 0.0659 | 0.004344 | 1.4454 | 1.3335 | 1.6484 |
 | Success rate | 1.0000 | -- | -- | -- | -- | -- |
 | Collision rate | 0.0000 | -- | -- | -- | -- | -- |
 
@@ -233,12 +233,12 @@ The table below reports the mean values over 100 simulation runs for each experi
 
 | Metric | Mean | Std. | Var. | Median | Min. | Max. |
 |---|---:|---:|---:|---:|---:|---:|
-| Minimum inter-UAV distance [m] | 6.0106 | 0.0395 | 0.001563 | 6.0054 | 5.9355 | 6.1021 |
-| Mean lateral error [m] | 0.9139 | 0.0006 | 0.000000 | 0.9139 | 0.9119 | 0.9153 |
-| Mean lateral RMSE [m] | 1.3414 | 0.0014 | 0.000002 | 1.3411 | 1.3383 | 1.3451 |
-| Mean maximum path deviation [m] | 4.4061 | 0.0186 | 0.000347 | 4.4070 | 4.3660 | 4.4457 |
-| Maximum path deviation [m] | 4.7052 | 0.0332 | 0.001103 | 4.7042 | 4.6452 | 4.7842 |
-| Mean trajectory elongation index | 1.0487 | 0.0001 | 0.000000 | 1.0487 | 1.0484 | 1.0490 |
+| Minimum inter-UAV distance [m] | 5.9928 | 0.0374 | 0.001397 | 5.9959 | 5.8994 | 6.0812 |
+| Mean lateral error [m] | 0.9142 | 0.0007 | 0.000001 | 0.9141 | 0.9126 | 0.9164 |
+| Mean lateral RMSE [m] | 1.3414 | 0.0016 | 0.000003 | 1.3412 | 1.3373 | 1.3457 |
+| Mean maximum path deviation [m] | 4.4095 | 0.0195 | 0.000380 | 4.4087 | 4.3578 | 4.4586 |
+| Maximum path deviation [m] | 4.7138 | 0.0353 | 0.001249 | 4.7128 | 4.6367 | 4.7987 |
+| Mean trajectory elongation index | 1.0490 | 0.0001 | 0.000000 | 1.0490 | 1.0486 | 1.0493 |
 | Success rate | 1.0000 | -- | -- | -- | -- | -- |
 | Collision rate | 0.0000 | -- | -- | -- | -- | -- |
 
@@ -246,12 +246,12 @@ The table below reports the mean values over 100 simulation runs for each experi
 
 | Metric | Mean | Std. | Var. | Median | Min. | Max. |
 |---|---:|---:|---:|---:|---:|---:|
-| Minimum inter-UAV distance [m] | 7.7834 | 0.1159 | 0.013444 | 7.7732 | 7.5863 | 7.9420 |
-| Mean lateral error [m] | 1.3237 | 0.0031 | 0.000010 | 1.3229 | 1.3181 | 1.3321 |
-| Mean lateral RMSE [m] | 2.1212 | 0.0055 | 0.000030 | 2.1217 | 2.1054 | 2.1321 |
-| Mean maximum path deviation [m] | 6.0686 | 0.0538 | 0.002895 | 6.0631 | 5.9309 | 6.1839 |
-| Maximum path deviation [m] | 7.7625 | 0.0064 | 0.000041 | 7.7631 | 7.7456 | 7.7782 |
-| Mean trajectory elongation index | 1.0720 | 0.0017 | 0.000003 | 1.0719 | 1.0683 | 1.0757 |
+| Minimum inter-UAV distance [m] | 7.9293 | 0.0105 | 0.000110 | 7.9295 | 7.9069 | 7.9471 |
+| Mean lateral error [m] | 1.3002 | 0.0015 | 0.000002 | 1.3002 | 1.2964 | 1.3036 |
+| Mean lateral RMSE [m] | 2.0854 | 0.0016 | 0.000002 | 2.0854 | 2.0828 | 2.0902 |
+| Mean maximum path deviation [m] | 5.5891 | 0.0031 | 0.000009 | 5.5891 | 5.5815 | 5.5945 |
+| Maximum path deviation [m] | 7.8932 | 0.0059 | 0.000035 | 7.8928 | 7.8776 | 7.9097 |
+| Mean trajectory elongation index | 1.0719 | 0.0013 | 0.000002 | 1.0719 | 1.0686 | 1.0746 |
 | Success rate | 1.0000 | -- | -- | -- | -- | -- |
 | Collision rate | 0.0000 | -- | -- | -- | -- | -- |
 
