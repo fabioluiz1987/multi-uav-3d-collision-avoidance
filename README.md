@@ -102,6 +102,12 @@ Two normal UAVs and one emergency UAV execute A\*-based trajectories over curved
 
 ![Experiment 10](images/simulacao_20260928_110853_cenario_10.gif)
 
+### Experiment — Dynamic Operational-State Transition
+
+UAV D1 transitions from normal to emergency operation and back to normal during the same mission, while ten UAVs cross its trajectory. The scenario illustrates the online adaptation of the state-dependent interaction rules and the corresponding transfer of collision-avoidance responsibility.
+
+![State-transition experiment](images/simulacao_20261001_092609_cenario_19.gif)
+
 ---
 
 ## Statistical Results Over 100 Runs
